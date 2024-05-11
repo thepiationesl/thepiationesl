@@ -81,8 +81,10 @@ and cwap310@gmail.com
 
 
 ## Recent Blog Posts  
-              - name: Blog Post Workflow
-                uses: gautamkrishnar/blog-post-workflow@1.8.7
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+            
             
 
 <br/>  
