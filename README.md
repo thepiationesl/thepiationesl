@@ -4,7 +4,7 @@ just passing by
 
 ## /about
 
-- 16 (2026)
+- 15 (2026)
 - no clear direction
 - doing things, stopping, repeating
 - interests stay as interests
@@ -29,11 +29,15 @@ just passing by
 - basic daw (au / fl)
 - can tune vocals
 
+- singing: no
+- tuning: sometimes
+- output: barely listenable
+
 voices:
 - luo tianyi
 - zhiyu moke
 - chiyu
-- teto
+- kasane teto
 
 ## /state
 
@@ -54,6 +58,13 @@ voices:
 - follow rules by default
 - no strong tendency to resist
 - in new environments: mostly compliant
+
+- dialect > english > chinese
+- at home: dialect
+- outside: mandarin + english mix
+
+- lazy by default
+- but can go all night on things I care about
 
 - don't like being named
 - don't turn interests into work
